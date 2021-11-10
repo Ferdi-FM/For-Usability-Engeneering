@@ -1,3 +1,3 @@
 # Test-for-Usability-Engeneering
-Test\
-Das hier ist die Read-Me
+Usability Engineering\
+Dieses Repository ist für Übungblatt 1
